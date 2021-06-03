@@ -11,7 +11,7 @@ a ideia do código veio em um exercício em portugol, porém, tentei refazer uti
   -> peso_atual = vai receber o peso atual do usuário. Este será usado no cálculo.
   -> qnt_quer = recebe o peso/meta do usuário. Também será usado no cálculo.
   -> vezesMalhou = recebe 0 no iníciou, será usado para receber o cálculo do peso_atual e qnt_quer. Este aparecerá para o cliente.
-3º While: O while foi utilizado usando a lógica do método chinês. Ele irá repetir o cálculi até que "peso_atual" fique < ( menor que ) "qnt_quer".
+3º While: O while foi utilizado usando a lógica do método chinês. Ele irá repetir o cálculo até que "peso_atual" fique < ( menor que ) "qnt_quer".
 
 # Modo de usar:
 1º passo: Usuário deve escrever seu nome.
